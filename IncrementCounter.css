@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    background-color: blueviolet;
+}
+#main_container{
+    margin-left: 25%;
+    margin-top: 200px;
+}
+.counter_container{
+    display: inline-block;
+    margin-left: 5%;
+    background-color: blue;
+    padding: 1em;
+    border: 3px solid white;
+}
+.counter_container i{
+    justify-content: center;
+    display: grid;
+    background-color: blue;
+}
+.counter_increment{
+    justify-content: center;
+    display: grid;
+    margin: 15px 0px 15px 0px;
+    font-size: 1.5em;
+    background-color: blue;
+}
+.text{
+    background-color: blue;
+}
